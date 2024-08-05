@@ -1,5 +1,5 @@
 <mvc:View controllerName="portal.controller.Main"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m" xmlns:core="sap.ui.core">
-    <Text text="Test Page"/>
+    <Text text="Test Page22222222222"/>
 </mvc:View>
