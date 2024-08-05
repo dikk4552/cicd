@@ -1,0 +1,6 @@
+{
+  "welcomeFile": "/portal/index.html",
+  "authenticationMethod": "route",
+  "routes": [
+  ]
+}
